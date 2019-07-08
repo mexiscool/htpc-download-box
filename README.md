@@ -1,6 +1,6 @@
 # HTPC Download Box
 
-Sonarr / Radarr / Lidarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
+Sonarr / Radarr / Lidarr / Jackett / Deluge / OpenVPN / Plex  (notice that NZBGet is missing)
 
 TV shows and movies download, sort, with the desired quality and subtitles, behind a VPN (optional), ready to watch, in a beautiful media player.
 All automated.
